@@ -5,7 +5,7 @@ function App() {
   const [data, setData] = useState([]);
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(false);
-  const YOUR_API_KEY = `eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlYjRkODE3YzViN2JjMjA1M2I4NzIwNzAxYjM1NjJmNSIsIm5iZiI6MTcyNjY0NDE2My45Njg4MDksInN1YiI6IjY2ZTkzYzA3YjI5MTdlYjE4MDBhYjFjNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.hKDHMnIVPDAQQ4CqxHUAB2rSen7IL8ZDBv-n_4uJcho`;
+  const YOUR_API_KEY = `REPLACE_WITH_YOUR_KEY`;
   useEffect(() => {
     fetchMovies();
   }, [page]);
