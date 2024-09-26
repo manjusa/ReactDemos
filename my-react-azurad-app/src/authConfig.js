@@ -1,3 +1,4 @@
+//CLIENT_ID and TENANT_ID both extracted from constants file (externailsing them - not in source code repository)
 import { CLIENT_ID } from "./constants";
 import { TENANT_ID } from "./constants";
 
