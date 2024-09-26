@@ -1,2 +1,7 @@
 infinite-scrolling/node_modules/
 infinite-scrolling/package-lock.json
+my-react-azurad-app/package-lock.json
+my-react-azurad-app/src/logo.svg
+my-react-azurad-app/src/reportWebVitals.js
+my-react-azurad-app/src/setupTests.js
+my-react-azurad-app/src/App.test.js
